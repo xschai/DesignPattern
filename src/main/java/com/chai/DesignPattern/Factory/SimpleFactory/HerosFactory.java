@@ -1,7 +1,7 @@
 package com.chai.DesignPattern.Factory.SimpleFactory;
 
 public class HerosFactory {
-    public Hero getDifferentHero(String type){
+    public static Hero getDifferentHero(String type){
         if("DaJi".equals(type)){
                 return new DaJi();
             }

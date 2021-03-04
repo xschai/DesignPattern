@@ -1,5 +1,5 @@
 package com.chai.DesignPattern.Factory.AbstractFactory;
 
-public interface Hero {
-    void haveHero();
+public interface Sink {
+    void haveSkin();
 }

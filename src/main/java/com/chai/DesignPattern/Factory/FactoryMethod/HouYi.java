@@ -1,4 +1,4 @@
-package com.chai.DesignPattern.Factory.AbstractFactory;
+package com.chai.DesignPattern.Factory.FactoryMethod;
 
 public class HouYi implements Hero{
     @Override
